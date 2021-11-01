@@ -49,8 +49,8 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://convertingcolors.com/) - This helped me convert colors into rgb because Atom and Emmet complained about hsl.
-- [Example resource 2](https://www.w3schools.com/default.asp) - I used W3 Schools to look up the code for both HTML and CSS properties that I didn't remember off the top of my head. I'd recommend it to anyone still learning this concept.
+- [Converting Colors](https://convertingcolors.com/) - This helped me convert colors into rgb because Atom and Emmet complained about hsl.
+- [W3 Schools](https://www.w3schools.com/default.asp) - I used W3 Schools to look up the code for both HTML and CSS properties that I didn't remember off the top of my head. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
