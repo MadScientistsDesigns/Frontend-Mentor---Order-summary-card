@@ -59,6 +59,6 @@ Users should be able to:
 
 ## Acknowledgments
 
-I was very rusty, so I refactored the code by: TohirBabs
-https://github.com/TohirBabs/Order-summary-card-component
+- I was very rusty, so I refactored the code by: TohirBabs
+- https://github.com/TohirBabs/Order-summary-card-component
 
